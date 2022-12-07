@@ -1,5 +1,5 @@
 # Simple-Login-Page-1
-This is a simple login page which we use in our websites to fetch information of clients.
+This is a simple login page which we can use in our websites to fetch information of clients.
 
 
 
